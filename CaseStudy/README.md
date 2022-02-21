@@ -36,3 +36,29 @@
 * LLR_03.1: Based on parameters user may interrupt purposely.
 * LLR_03.2: To show indication light whether the system is ON or OFF.
 * LLR_03.3: Recording of all data should be done for analysis.
+
+##### HLR_04
+* LLR_04.1: Irrigation should be vary automatically based on environment parameters. Example:- Rainfall and Increment in temperature etc.
+* LLR_04.2: Based on measured data, Itself RTC can sets the time for irrigation.
+* LLR_04.3: Controllable pressure and water flow. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
