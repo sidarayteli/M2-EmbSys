@@ -50,6 +50,13 @@
 ![irrigation](https://user-images.githubusercontent.com/46900710/154912134-31fa7b85-5001-441a-b280-1d7456cc7422.JPG)
 
 
+## Applications:-
+
+*	Useful for farmers for irrigation
+* Helps to protect agricultural crops
+*	Preventing wastage of water during irrigation
+*	Prevention of soil erosion
+*	As a Dust suppression
 
 
 
