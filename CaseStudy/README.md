@@ -30,9 +30,9 @@
 * LLR_01.1: If water content in soil is low, Watering should be done.
 
 ##### HLR_02
-     * LLR_02.1: Irrigation to be done based on environment parameters like temperature and humidity.
+* LLR_02.1: Irrigation to be done based on environment parameters like temperature and humidity.
 
-•	HLR_03
-LLR_03.1: Based on parameters user may interrupt purposely.
-LLR_03.2: To show indication light whether the system is ON or OFF.
-LLR_03.3: Recording of all data should be done for analysis.
+##### HLR_03
+* LLR_03.1: Based on parameters user may interrupt purposely.
+* LLR_03.2: To show indication light whether the system is ON or OFF.
+* LLR_03.3: Recording of all data should be done for analysis.
