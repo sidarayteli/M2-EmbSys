@@ -50,6 +50,14 @@
 
 ![irrigation](https://user-images.githubusercontent.com/46900710/154912134-31fa7b85-5001-441a-b280-1d7456cc7422.JPG)
 
+### Sensors and Actuators Used
+
+* Temperature Sensor
+* Humidity Sensor
+* Soil Moisture Sensor
+
+* Actuator: Motor pump
+
 
 ## Applications:-
 
