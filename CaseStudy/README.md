@@ -14,4 +14,8 @@
 * This internet based embedded smart irrigation system can helps to prevent wastage of water, Where farmers can control irrigation and get the update of soil in home itself.
 
 
-## 
+## Requirements
+
+### High Level Requirements:
+
+*
