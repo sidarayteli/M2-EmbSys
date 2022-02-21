@@ -18,4 +18,8 @@
 
 ### High Level Requirements:
 
-*
+* HLR_01: Should detect soil moisture.
+* HLR_02: Need to detect environment temperature and humidity.
+* HLR_03: Display all parameters.
+* HLR_04: Should be automatic irrigation.
+
