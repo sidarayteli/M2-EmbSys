@@ -1,1 +1,3 @@
-# Embedded System Project: Smart Irrigation System
+# Title: Smart Irrigation System
+
+## Explaination:
