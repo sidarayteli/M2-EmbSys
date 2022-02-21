@@ -42,7 +42,10 @@
 * LLR_04.2: Based on measured data, Itself RTC can sets the time for irrigation.
 * LLR_04.3: Controllable pressure and water flow. 
 
+
+
 ## Block diagram:
+
 
 ![irrigation](https://user-images.githubusercontent.com/46900710/154912134-31fa7b85-5001-441a-b280-1d7456cc7422.JPG)
 
