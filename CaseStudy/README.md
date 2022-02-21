@@ -44,6 +44,7 @@
 
 
 
+
 ## Block diagram:
 
 
@@ -57,21 +58,6 @@
 *	Preventing wastage of water during irrigation
 *	Prevention of soil erosion
 *	As a Dust suppression
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
