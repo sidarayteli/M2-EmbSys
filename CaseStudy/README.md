@@ -26,7 +26,7 @@
 
 ### Low Level Requirements:
 
-#* HLR_01 
+##### HLR_01 
     * LLR_01.1: If water content in soil is low, Watering should be done.
 
 •	HLR_02
