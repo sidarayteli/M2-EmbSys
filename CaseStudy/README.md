@@ -1,11 +1,11 @@
 # Title: Smart Irrigation System
 
 ## Table of contents
-### 1 Explaination.............................................
+### 1 Explaination
 ### 2 Requirements.............................................
 
-#### * High Level Requirement
-#### * Low Level Requirement
+#### 2.1 High Level Requirement
+#### 2.2 Low Level Requirement
 
 
 
