@@ -60,6 +60,38 @@
 * LLR_04.3: Shall be Controllable pressure and water flow. 
 
 
+## SWOT
+
+### Strengths
+* Easy to use Applications
+* Useful to all farmers
+* Less energy consumption
+
+### Weaknesses
+* Lack of graphical user interface
+* Deadlines
+* App may be needed for easy usage
+
+### Opportunites
+* GUI can be implemented
+
+### Threats
+* Best applications are available
+* May be majority of farmers willn't use because lack of guidense
+
+## 4W 1H
+### Who
+* The system can be used by farmer.
+### What
+* It's a smart irrigation system that works automatically.
+### When
+* It is available 24X7, 365 days for service.
+### Where
+* It can be use in fields and farms etc.
+### How
+* To run this system programme is written in C to prevent complication and keep things simple to the user.
+
+
 
 
 ## Block diagram:
