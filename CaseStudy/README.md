@@ -2,11 +2,14 @@
 
 ## Table of contents
 ### 1 Explaination
-### 2 Requirements.............................................
+### 2 Requirements
 
 #### 2.1 High Level Requirement
 #### 2.2 Low Level Requirement
 
+### 3 Block diagram
+### 4 Components used
+### 5 Applications
 
 
 
