@@ -102,8 +102,7 @@
 
 ## Block diagram:
 
-
-![SUB1](https://user-images.githubusercontent.com/46900710/155594428-95cddf68-5206-479b-b818-4d94d2e5b5c8.JPG)
+![irrigation](https://user-images.githubusercontent.com/46900710/155594702-7dd60a56-f18e-42e2-b1ef-0c857c2cfecf.JPG)
 
 ### Sensors and Actuators Used
 
