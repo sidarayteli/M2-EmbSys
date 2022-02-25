@@ -91,7 +91,7 @@
 ### Where
 * It can be use in fields and farms etc.
 ### How
-* To run this system programme is written in C to prevent complication and keep things simple to the user.
+* To run this system, Programme is written in C to prevent complication and keep things simple to the user.
 
 
 
@@ -144,8 +144,8 @@
 
 
 ## Explaination:
-The main goal of this work is to develop a prototype of an event data recorder. Black
-box is the vehicle data record that collects the status of the vehicle by recording the
-temperature of the engine. It also has a feature of location tracking to determine the
-location of the vehicle, which will help when a side/head-on collision has occurred.
+The main goal of this work is to develop a prototype of an event data recorder. Black box is the vehicle data record that collects the status of the vehicle by recording the
+temperature of the engine. It also has a feature of location tracking to determine the location of the vehicle, which will help when a side/head-on collision has occurred.
+This particular design will allow analysts to determine whether the cause of the accident was due to problems in the vehicle, or was the driver’s
+mistake. The recorded data is stored in cloud storage.In this prototype temperature and humidity sensors, ultrasonic sensor, and alcoholic sensor are used to collect the data like temperature, humidity, obstacle detection, and alcoholic content of driver respectively.
 
