@@ -149,3 +149,84 @@ temperature of the engine. It also has a feature of location tracking to determi
 This particular design will allow analysts to determine whether the cause of the accident was due to problems in the vehicle, or was the driver’s
 mistake. The recorded data is stored in cloud storage.In this prototype temperature and humidity sensors, ultrasonic sensor, and alcoholic sensor are used to collect the data like temperature, humidity, obstacle detection, and alcoholic content of driver respectively.
 
+
+
+## Requirements
+
+### High Level Requirements:
+
+* HLR_01: Shall measure the data of engine temperature.
+* HLR_02: Shall collect the data of alcohol content of driver.
+* HLR_03: Shall collect the distance around the vehicle.
+* HLR_04: Shall upload the collected data.
+
+
+### Low Level Requirements:
+
+##### HLR_01 
+* LLR_01.1: It may measure humidity of environment along with temperature of the vehicle.
+
+##### HLR_02
+* LLR_02.1: Shall detect alcoholic content of driver and send it to cloud .
+
+##### HLR_03
+* LLR_03.1: It shall upload collected  distance (around the vehicle) to cloud storage.
+
+##### HLR_04
+* LLR_04.1: It can upload all parameters to cloud and where differents graphs or pai charts are created to analysis the data.
+* LLR_04.2: It may have individual fields in cloud for storing of different parameters.
+
+## SWOT Analysis
+
+### Strengths
+* Easy to place in all vehicles
+* Useful to all customers,Lic companies and for cops
+
+### Weaknesses
+* Lack of Black box saftey 
+* Deadlines
+* App may be needed for easy monitoring
+
+### Opportunites
+* GUI can be implemented
+
+### Threats
+* It may leads more cost to vehicle
+
+## 4W 1H
+### Who
+* The system can be placed in vehicles.
+### What
+* It's a Black box for vehicle that works automatically.
+### When
+* It is available untill and unless vehicle exist.
+### Where
+* It can be used in vehicles.
+### How
+* Programme is written in C to prevent complication and keep things simple to the user, And monitoring is provided to user.
+
+
+
+## Usecase diagram
+
+
+
+
+## Block diagram:
+
+
+
+### Sensors and Actuators Used
+
+* Temperature Sensor
+* Humidity Sensor
+* Alcoholic Sensor
+* Ultrasonic Sensor
+
+
+## Applications:-
+
+*	Useful for all LIC companies
+* Helps to cops to catch false insurence claimers
+*	Used in all vehicles
+
