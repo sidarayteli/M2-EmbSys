@@ -214,6 +214,8 @@ mistake. The recorded data is stored in cloud storage.In this prototype temperat
 
 ## Block diagram:
 
+![blackbox](https://user-images.githubusercontent.com/46900710/155764878-82cc36b8-73fa-4d5e-acb5-722ec1c0a87f.JPG)
+
 
 
 ### Sensors and Actuators Used
