@@ -62,7 +62,7 @@
 * LLR_04.3: Shall be Controllable pressure and water flow. 
 
 
-## SWOT
+## SWOT Analysis
 
 ### Strengths
 * Easy to use Applications
@@ -79,7 +79,7 @@
 
 ### Threats
 * Best applications are available
-* May be majority of farmers willn't use because lack of guidense
+* May be majority of farmers willn't use because of lack of guidense
 
 ## 4W 1H
 ### Who
