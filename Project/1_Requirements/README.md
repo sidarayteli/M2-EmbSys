@@ -52,7 +52,7 @@ Smart Irrigation is an one of the Embedded system. In earlier days Irrigation wa
 
 ### Threats
 * Best applications are available
-* May be majority of farmers willn't use because lack of guidense
+* May be majority of farmers willn't use because of lack of guidense
 
 ## 4W 1H
 ### Who
@@ -64,7 +64,7 @@ Smart Irrigation is an one of the Embedded system. In earlier days Irrigation wa
 ### Where
 * It can be use in fields and farms etc.
 ### How
-* To run this system programme is written in C to prevent complication and keep things simple to the user.
+* To run this system, Programme is written in C to prevent complication and keep things simple to the user.
 
 
 
