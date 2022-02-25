@@ -111,7 +111,7 @@
 * Humidity Sensor
 * Soil Moisture Sensor
 
-* Actuator: Motor pump
+* Actuator: Motor pump, Relay
 
 
 ## Applications:-
