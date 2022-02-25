@@ -96,7 +96,8 @@
 
 
 ## Usecase diagram
-![SUB1](https://user-images.githubusercontent.com/46900710/155594572-7849bac1-9b46-4336-9d7a-1e1a6169b733.JPG)
+![usecase](https://user-images.githubusercontent.com/46900710/155770238-719f7f02-2b5f-4268-aec7-cc95d02ea485.JPG)
+
 
 
 
