@@ -1,2 +1,3 @@
-# M2-EmbSys
-Embedded System Module
+# M2-EmbSye
+
+Folder structure
