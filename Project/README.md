@@ -1,4 +1,4 @@
-# M2-Embedded: Smart Irrigation System project 
+# M2-Embedded Project : Smart Irrigation System 
 
 ## Folder structure
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
