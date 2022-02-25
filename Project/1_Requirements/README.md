@@ -35,11 +35,7 @@ Smart Irrigation is an one of the Embedded system. In earlier days Irrigation wa
 
 
 
-## SWOT
-## 4W 1H
-
-
-## SWOT
+## SWOT Analysis
 
 ### Strengths
 * Easy to use Applications
