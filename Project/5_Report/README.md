@@ -59,7 +59,7 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 * Best applications are available
 * May be majority of farmers willn't use because of lack of guidense
 
-## 4W 1H
+## 5W 1H
 ### Who
 * The system can be used by farmer.
 ### What
@@ -68,6 +68,8 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 * It is available 24X7, 365 days for service.
 ### Where
 * It can be use in fields and farms etc.
+### Why
+* Useful to all farmers to do irrigation without wasting of water and energy.
 ### How
 * To run this system, Programme is written in C to prevent complication and keep things simple to the user.
 
