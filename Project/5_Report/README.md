@@ -87,6 +87,22 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 ![irrigation](https://user-images.githubusercontent.com/46900710/155770530-6354cd86-c151-4262-b7d9-458c5cfb9d7e.JPG)
 
 
+### Sensors and Actuators Used
+
+* Temperature Sensor
+* Humidity Sensor
+* Soil Moisture Sensor
+
+* Actuator: Motor pump, Relay
+
+
+## Applications:-
+
+* Useful for farmers for irrigation
+* Helps to protect agricultural crops
+* Preventing wastage of water during irrigation
+* Prevention of soil erosion
+* As a Dust suppression
 
 
 
