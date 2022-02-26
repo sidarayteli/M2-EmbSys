@@ -16,24 +16,29 @@
 #### * Microcontroller :
  Used to control various sensors, Actuators and for sending and storing data’s ,etc.
 
-Temperature Sensor : To measure environment temperature. 
+#### * Temperature Sensor : 
+Used to measure environment temperature. 
 
-Humidity Sensor : To measure environment humidity.
+#### * Humidity Sensor :
+Used to measure environment humidity.
 
+#### * Soil Moisture Sensor : 
+Used to detect the moisture content in the soil.
 
+#### * Display :
+Helps to display various parameters like temperature, Humidity of environment and    Moisture content of soil.
 
+#### * RTC :
+Real time clock is used to set irrigation time automatically.
 
-Soil Moisture Sensor : To detect the moisture content in the soil.
+#### * Relay :
+It’s used to control the actuator.
 
-Display : Helps to display various parameters like temperature, Humidity of environment and    Moisture content of soil.
+#### * Actuator : 
+Used as motor pump to supply water to soil.
 
-RTC : Real time clock is used to set irrigation time automatically.
-
-Relay : It’s used to control the actuator.
-
-Actuator : Used as motor pump to supply water to soil.
-
-Storage : To record data’s for analysis.
+#### * Storage :
+To record data’s for analysis.
 
 
 
