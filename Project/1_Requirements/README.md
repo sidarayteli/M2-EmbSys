@@ -83,7 +83,7 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 * Actuator: Motor pump, Relay
 
 
-## Applications:-
+## Applications
 
 * Useful for farmers for irrigation
 * Helps to protect agricultural crops
