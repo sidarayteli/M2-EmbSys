@@ -3,7 +3,7 @@
 ![usecase](https://user-images.githubusercontent.com/46900710/155770366-ee2bdb72-2774-478f-9227-2937691a1a10.JPG)
 
 ## Flowchart
-![Flowchart1](https://user-images.githubusercontent.com/46900710/155830363-1108b1b4-90b2-41ce-b2cb-b3147f8c828b.JPG)
+![flowchart2](https://user-images.githubusercontent.com/46900710/155830718-fe4051ac-5f74-48bf-851c-76f6bd31e806.JPG)
 
 
 
