@@ -129,7 +129,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Table of contents       
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 1 Explaination
+### 1 Abstract
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 2 Requirements
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -144,7 +144,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Explaination:
+## Abstract:
 The main goal of this work is to develop a prototype of an event data recorder. Black box is the vehicle data record that collects the status of the vehicle by recording the
 temperature of the engine. It also has a feature of location tracking to determine the location of the vehicle, which will help when a side/head-on collision has occurred.
 This particular design will allow analysts to determine whether the cause of the accident was due to problems in the vehicle, or was the driver’s
