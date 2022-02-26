@@ -74,4 +74,19 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 * To run this system, Programme is written in C to prevent complication and keep things simple to the user. Microcontroller is used here to control and collect data from various sensors like temperture, Humidity and soil moisture sensor.It works based on sensor parameters, For example if temperature parameters are higher than its threshold then irrigation is takes place with the help of motor. And all sensors parameters are being displayed using LCD.
 
 
+## Components Used
 
+* Temperature Sensor
+* Humidity Sensor
+* Soil Moisture Sensor
+
+* Actuator: Motor pump, Relay
+
+
+## Applications:-
+
+* Useful for farmers for irrigation
+* Helps to protect agricultural crops
+* Preventing wastage of water during irrigation
+* Prevention of soil erosion
+* As a Dust suppression
