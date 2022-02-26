@@ -13,7 +13,7 @@
 
 ## Components Used
 
-* Microcontroller :
+## * Microcontroller :
  Used to control various sensors, Actuators and for sending and storing data’s ,etc.
 
 Temperature Sensor : To measure environment temperature. 
