@@ -33,13 +33,17 @@ Helps to display various parameters like temperature, Humidity of environment an
 Real time clock can operate under low voltage also, Its operating voltage ranges from 2.3v to 5v and operating temperature is -45 ºC to 80 ºC. It keeps time and date accuratly, Here it is used to set irrigation time automatically.
 
 #### * Relay :
-It’s used to control the actuator.
+Relay having switching voltages VAC is at 250V and 10A and VDC is at 30V and 10A. Its trigger voltage(VDC) is 12V
+and trigger current is 20mA Operates under temperature range from -40°C to 85°C and humidity range of 20% to 85%
+Standard interface that can be controlled by microcontroller. Here it’s used to control the actuator.
+
 
 #### * Actuator : 
-Used as motor pump to supply water to soil.
+
+DC motor operates under voltage of 4.5V to 9V and load current is approximately 250mA. In DC motor there many types based on their torque value. Here it is used as motor pump to supply water to soil.
 
 #### * Storage :
-To record data’s for analysis.
+To record data’s for analysis. For storage unit used as thingspeak cloud for analysing data.
 
 
 
