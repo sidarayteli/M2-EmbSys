@@ -17,7 +17,7 @@
  Used to control various sensors, Actuators and for sending and storing data’s ,etc.
 
 #### * Temperature Sensor : 
-DHT11 used as temperature sensor to measure environmental temperature. It works under supply voltage of 3.3v to 5v and it can measure temperature in the range of 0 degree celcius to 50 degree celcius. It is commony used to measure both temperature and humidity of environment. It gives digital output so dht11 is an digital sensor.
+DHT11 used as temperature sensor to measure environmental temperature. It works under supply voltage of 3.3v to 5v and it can measure temperature in the range of 0ºC(degree celcius) to 50ºC(degree celcius). It is commony used to measure both temperature and humidity of environment. It gives digital output so dht11 is an digital sensor.
 
 #### * Humidity Sensor :
 DHT11 used as humidity sensor to measure environmental humidity. It works under supply voltage of 3.3v to 5v and it can measure humidity in the range of 20% to 90%. It is commony used to measure both temperature and humidity of environment. It gives digital output so dht11 is an digital sensor.
@@ -30,7 +30,7 @@ It is having some specifications like works uder supply voltage of 3.3 to 5v. Th
 Helps to display various parameters like temperature, Humidity of environment and moisture content of soil. Input voltage ranges 4.7v to 5.3v supply. It can displays alphabets as well as numbers. Interfacing is done with microcontrollers.
 
 #### * RTC :
-Real time clock can operate under low voltage also, Its operating voltage ranges from 2.3v to 5v and operating temperature is -80 ºC to 50 ºC.is used to set irrigation time automatically.
+Real time clock can operate under low voltage also, Its operating voltage ranges from 2.3v to 5v and operating temperature is -45 ºC to 80 ºC. It keeps time and date accuratly, Here it is used to set irrigation time automatically.
 
 #### * Relay :
 It’s used to control the actuator.
