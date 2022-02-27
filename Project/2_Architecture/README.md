@@ -30,7 +30,7 @@ It is having some specifications like works uder supply voltage of 3.3 to 5v. Th
 Helps to display various parameters like temperature, Humidity of environment and moisture content of soil. Input voltage ranges 4.7v to 5.3v supply. It can displays alphabets as well as numbers. Interfacing is done with microcontrollers.
 
 #### * RTC :
-Real time clock is used to set irrigation time automatically.
+Real time clock can operate under low voltage also, Its operating voltage ranges from 2.3v to 5v and operating temperature is -80 ºC to 50 ºC.is used to set irrigation time automatically.
 
 #### * Relay :
 It’s used to control the actuator.
