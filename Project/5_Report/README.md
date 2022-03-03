@@ -49,7 +49,6 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 
 ### Weaknesses
 * Lack of graphical user interface
-* Deadlines
 * App may be needed for easy usage
 
 ### Opportunites
