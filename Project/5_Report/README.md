@@ -139,7 +139,6 @@ Standard interface that can be controlled by microcontroller. Here it’s used t
 
 DC motor operates under voltage of 4.5V to 9V and load current is approximately 250mA. In DC motor there many types based on their torque value. Here it is used as motor pump to supply water to soil.
 
-
 ## Applications:-
 
 * Useful for farmers for irrigation
@@ -147,6 +146,16 @@ DC motor operates under voltage of 4.5V to 9V and load current is approximately 
 * Preventing wastage of water during irrigation
 * Prevention of soil erosion
 * As a Dust suppression
+
+# Testplan And Result
+
+## * High Level Requirement Table 
+![HLR](https://user-images.githubusercontent.com/46900710/156876684-4655870a-10fc-4cd5-ad06-cccc0cd543c8.JPG)
+
+
+## * Low Level Requirement Table 
+![LLR](https://user-images.githubusercontent.com/46900710/156876804-e5214d86-9fb4-47b8-9412-b9daa5a2469b.JPG)
+
 
 
 
