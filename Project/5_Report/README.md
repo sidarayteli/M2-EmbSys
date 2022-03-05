@@ -85,7 +85,7 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 
 ## Block diagram
 
-![irrigation](https://user-images.githubusercontent.com/46900710/155770530-6354cd86-c151-4262-b7d9-458c5cfb9d7e.JPG)
+![irrigation1](https://user-images.githubusercontent.com/46900710/156874998-70c45966-3866-49c0-a449-fcdbcafad91b.JPG)
 
 
 ### Sensors and Actuators Used
