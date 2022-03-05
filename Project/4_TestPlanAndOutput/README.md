@@ -1,4 +1,8 @@
 # Testplan And Result
 
-## Table 
- HLR, LLR,ID,actual ,expected o/p
+## High Level Requirement Table 
+![HLR](https://user-images.githubusercontent.com/46900710/156876684-4655870a-10fc-4cd5-ad06-cccc0cd543c8.JPG)
+
+
+## Low Level Requirement Table 
+ ![LLR](https://user-images.githubusercontent.com/46900710/156876657-0808299f-fd43-4987-aa4f-5577970d5e78.JPG)
