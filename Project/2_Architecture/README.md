@@ -8,8 +8,7 @@
 
 
 ## Block diagram
-
-![irrigation](https://user-images.githubusercontent.com/46900710/155770530-6354cd86-c151-4262-b7d9-458c5cfb9d7e.JPG)
+![irrigation1](https://user-images.githubusercontent.com/46900710/156874957-12c634d9-ce12-40f3-a5a4-74673717bba3.JPG)
 
 ## Components Used
 
@@ -29,8 +28,6 @@ It is having some specifications like works uder supply voltage of 3.3 to 5v. Th
 #### * Display :
 Helps to display various parameters like temperature, Humidity of environment and moisture content of soil. Input voltage ranges 4.7v to 5.3v supply. It can displays alphabets as well as numbers. Interfacing is done with microcontrollers.
 
-#### * RTC :
-Real time clock can operate under low voltage also, Its operating voltage ranges from 2.3v to 5v and operating temperature is -45 ºC to 80 ºC. It keeps time and date accuratly, Here it is used to set irrigation time automatically.
 
 #### * Relay :
 Relay having switching voltages VAC is at 250V and 10A and VDC is at 30V and 10A. Its trigger voltage(VDC) is 12V
@@ -41,10 +38,6 @@ Standard interface that can be controlled by microcontroller. Here it’s used t
 #### * Actuator : 
 
 DC motor operates under voltage of 4.5V to 9V and load current is approximately 250mA. In DC motor there many types based on their torque value. Here it is used as motor pump to supply water to soil.
-
-#### * Storage :
-To record data’s for analysis. For storage unit used as thingspeak cloud for analysing data.
-
 
 
 ## Block Diagram Explaination 
