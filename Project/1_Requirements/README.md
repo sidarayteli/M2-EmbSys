@@ -31,11 +31,10 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 ##### HLR_03
 * LLR_03.1: Based on parameters, User may interrupt purposely.
 * LLR_03.2: Show indication light whether the system is ON or OFF.
-* LLR_03.3: Recording of all data shall be done for analysis.
 
 ##### HLR_04
 * LLR_04.1: Irrigation can be automatically based on environment parameters. Example:- Rainfall and Increment in temperature etc.
-* LLR_04.2: Based on measured data, Itself RTC can sets the time for irrigation.
+* LLR_04.2: Based on measured data, Itself can sets the time for irrigation.
 * LLR_04.3: Shall be Controllable pressure and water flow. 
 
 
