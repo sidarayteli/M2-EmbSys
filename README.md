@@ -1,4 +1,4 @@
-##### * Repository of embedded system module
+#####  Repository for embedded system module
 
 # CaseStudy 1,2
 
