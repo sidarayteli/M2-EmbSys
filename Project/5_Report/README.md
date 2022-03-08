@@ -101,16 +101,16 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 
 
 
-# Design
-## Usecase diagram
+# 3. Design
+## 3.1 Usecase diagram
 ![usecase](https://user-images.githubusercontent.com/46900710/155770366-ee2bdb72-2774-478f-9227-2937691a1a10.JPG)
 
-## Flowchart
+## 3.2 Flowchart
 ![flowchart2](https://user-images.githubusercontent.com/46900710/155830718-fe4051ac-5f74-48bf-851c-76f6bd31e806.JPG)
 
 
 
-## Block diagram
+## 3.3 Block diagram
 
 ![irrigation1](https://user-images.githubusercontent.com/46900710/156874998-70c45966-3866-49c0-a449-fcdbcafad91b.JPG)
 
@@ -118,7 +118,7 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 ## Block Diagram Explaination 
 In the project smart irrigation system controller is used to control various sensors(analog/digital) like temperature, Humidity sensor and soil moisture sensor. Where all parameters are collected by the controller with the help of sensors. If the temperature level is more than its threshold value then based on temperature reading the controller on the motor. Where motor is controlled by relay. Similerly if humidity level and moisture content in soil is very low or high then also controller takes respective actions like to on or of the motor which was set for irrigation. Also all parameters are displayed using LCD(Display). The power is providded to the system along with that on and off button is providded to the system for user control.
 
-## Components Used
+## 4. Components Used
 
 #### * Microcontroller :
  Used to control various sensors, Actuators and for sending and storing data’s ,etc.
@@ -147,7 +147,7 @@ Standard interface that can be controlled by microcontroller. Here it’s used t
 
 DC motor operates under voltage of 4.5V to 9V and load current is approximately 250mA. In DC motor there many types based on their torque value. Here it is used as motor pump to supply water to soil.
 
-## Applications:-
+## 5. Applications:-
 
 * Useful for farmers for irrigation
 * Helps to protect agricultural crops
@@ -155,7 +155,7 @@ DC motor operates under voltage of 4.5V to 9V and load current is approximately 
 * Prevention of soil erosion
 * As a Dust suppression
 
-# Testplan And Result
+# 6. Testplan And Result
 
 ## * High Level Requirement Table 
 ![HLR](https://user-images.githubusercontent.com/46900710/156876684-4655870a-10fc-4cd5-ad06-cccc0cd543c8.JPG)
@@ -164,14 +164,14 @@ DC motor operates under voltage of 4.5V to 9V and load current is approximately 
 ## * Low Level Requirement Table 
 ![LLR](https://user-images.githubusercontent.com/46900710/156876804-e5214d86-9fb4-47b8-9412-b9daa5a2469b.JPG)
 
-### Simulide Implementation
+### 6.1 Simulide Implementation
 ![Final_simulation](https://user-images.githubusercontent.com/46900710/157177912-b37ec328-bdee-4426-9e1e-a83fe4a6eeea.png)
 Ficture a
 
 ### Explaination
 In the project smart irrigation system Arduino UNO is used as controlling unit. In above ficture 'a': push button is used as temperature sensor instead of dht11 sensor and potentiometer is used as soil moisture sensor. LCD is used for displaying environment temperature, humidity and soil moisture data's. If temperature readings are greater than the threshold temperature value and soil moisture is lesser the threshold soil moisture value(where those threshold values are fixed in code) then motor gets ON with the help of relay.
 
-### Breadboard Implementation
+### 6.2 Breadboard Implementation
 
 ![IMG_20220308_152433](https://user-images.githubusercontent.com/46900710/157218337-969239da-2fc2-4fda-99b3-fc57a4c03425.jpg)
 
@@ -180,7 +180,7 @@ In the project smart irrigation system Arduino UNO is used as controlling unit. 
 ### Explaination
 In the project smart irrigation system Arduino UNO is used as controlling unit. In above ficture 'b': DHT11 is used to measure environent temperature and humidity. Here relay is used to control the dc motor. Green led gets on Whenever the system is on for irrigation and the red led is on whenever the system is off.
 
-### Conclusion
+### 6.3 Conclusion
 The smart irrigatin system is ready. Where it can make automatic irrigation whenever environment temperature is higher than its threshold value and soil moisture level lower thann its threshold value. For irrigation motor is used to supply water which is controlled by relay and arduino uno.
 
 
