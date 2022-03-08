@@ -43,11 +43,6 @@ Standard interface that can be controlled by microcontroller. Here it’s used t
 
 DC motor operates under voltage of 4.5V to 9V and load current is approximately 250mA. In DC motor there many types based on their torque value. Here it is used as motor pump to supply water to soil.
 
-## Circuit diagram using Simulide
-![Final_simulation](https://user-images.githubusercontent.com/46900710/157177912-b37ec328-bdee-4426-9e1e-a83fe4a6eeea.png)
-Ficture a
 
-### Explaination
-In the project smart irrigation system Arduino UNO is used as controlling unit. In above ficture 'a': push button is used as temperature sensor instead of dht11 sensor and potentiometer is used as soil moisture sensor. LCD is used for displaying environment temperature, humidity and soil moisture data's. If temperature readings are greater than the threshold temperature value and soil moisture is lesser the threshold soil moisture value(where those threshold values are fixed in code) then motor gets ON with the help of relay.
 
 
