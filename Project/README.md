@@ -1,5 +1,5 @@
-# M2-Embedded Project : Smart Irrigation System 
-
+# M2-Embedded 
+# PROJECT TITLE: SMART IRRIGATION SYSTEM USING SOIL MOISTURE AND DHT11 TEMPERATURE SENSOR
 ## Folder structure
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 1 Requirements
