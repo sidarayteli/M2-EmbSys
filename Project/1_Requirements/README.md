@@ -1,4 +1,4 @@
-# Project Title: Smart Irrigation System
+# PROJECT TITLE: SMART IRRIGATION SYSTEM USING SOIL MOISTURE AND DHT11 SENSOR
 
 ## Abstract
 Smart Irrigation is an one of the Embedded system. The main goal of this work is to develop a prototype of the system that can collect the health of the soil by measuring parameters like environmental temperature and humidity, Moisture content of soil and can display all parameters. And automatically irrigation can be done using motor pumps and it is based on parameters measured from various sensors.
