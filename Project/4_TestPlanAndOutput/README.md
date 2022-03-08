@@ -15,9 +15,7 @@ Ficture a
 In the project smart irrigation system Arduino UNO is used as controlling unit. In above ficture 'a': push button is used as temperature sensor instead of dht11 sensor and potentiometer is used as soil moisture sensor. LCD is used for displaying environment temperature, humidity and soil moisture data's. If temperature readings are greater than the threshold temperature value and soil moisture is lesser the threshold soil moisture value(where those threshold values are fixed in code) then motor gets ON with the help of relay.
 
 ### Breadboard Implementation
-
-![IMG_20220308_152433](https://user-images.githubusercontent.com/46900710/157217286-78448b57-d4e6-4b2a-9aa3-a78a5526be7c.jpg)
-
+![Uploading IMG_20220308_152433.jpg…]()
  Ficture b
 
 ### Explaination
