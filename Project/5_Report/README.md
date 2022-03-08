@@ -11,7 +11,10 @@
 #### 2.3 Swot analysis
 #### 2.4 4W 1H
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 3 Block diagram
+### 3 Design
+#### 3.1 Usecase diagram
+#### 3.2 Flowchart
+#### 3.3 Block diagram
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 4 Components used
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -24,7 +27,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-## Abstract
+## 1. Abstract
 Smart Irrigation is an one of the Embedded system. The main goal of this work is to develop a prototype of the system that can collect the health of the soil by measuring parameters like environmental temperature and humidity, Moisture content of soil and can display all parameters. And automatically irrigation can be done using motor pumps and it is based on parameters measured from various sensors.
 
 ### Explaination
@@ -34,9 +37,9 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 
 
 
-## Requirements
+## 2. Requirements
 
-### High Level Requirements:
+### 2.1 High Level Requirements:
 
 * HLR_01: Shall detect soil moisture.
 * HLR_02: Need to detect environment temperature and humidity.
@@ -44,7 +47,7 @@ In earlier days Irrigation was too difficult because lack of technology and lack
 * HLR_04: Shall be automatic irrigation.
 
 
-### Low Level Requirements:
+### 2.2 Low Level Requirements:
 
 ##### HLR_01 
 * LLR_01.1: If water content in soil is low, Watering shall take place.
