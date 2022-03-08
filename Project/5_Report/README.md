@@ -18,7 +18,9 @@
 ### 5 Applications
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 6 Testplan And Result
-#### * Hardware Implementation
+#### * Simulide Implementation
+#### * Breadboard Implementation
+#### * Conclusion
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -174,3 +176,21 @@ In the project smart irrigation system Arduino UNO is used as controlling unit. 
 
 ### Explaination
 In the project smart irrigation system Arduino UNO is used as controlling unit. In above ficture 'b': DHT11 is used to measure environent temperature and humidity. Here relay is used to control the dc motor. Green led gets on Whenever the system is on for irrigation and the red led is on whenever the system is off.
+
+### Conclusion
+The smart irrigatin system is ready. Where it can make automatic irrigation whenever environment temperature is higher than its threshold value and soil moisture level lower thann its threshold value. For irrigation motor is used to supply water which is controlled by relay and arduino uno.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
