@@ -43,6 +43,8 @@ Standard interface that can be controlled by microcontroller. Here it’s used t
 
 DC motor operates under voltage of 4.5V to 9V and load current is approximately 250mA. In DC motor there many types based on their torque value. Here it is used as motor pump to supply water to soil.
 
+## Cuircuit diagram using Simulide
+![Final_simulation](https://user-images.githubusercontent.com/46900710/157177912-b37ec328-bdee-4426-9e1e-a83fe4a6eeea.png)
 
 
 
