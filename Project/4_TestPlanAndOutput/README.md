@@ -21,4 +21,4 @@ In the project smart irrigation system Arduino UNO is used as controlling unit. 
  Ficture b
 
 ### Explaination
-In the project smart irrigation system Arduino UNO is used as controlling unit. In above ficture 'b': DHT11 is used to measure environent temperature and humidity. Here relay is used to control the dc motor. Green led gets on whenever the system is on for irrigation and the red led is on whenever the system is off.
+In the project smart irrigation system Arduino UNO is used as controlling unit. In above ficture 'b': DHT11 is used to measure environent temperature and humidity. Here relay is used to control the dc motor. Green led gets on Whenever the system is on for irrigation and the red led is on whenever the system is off.
